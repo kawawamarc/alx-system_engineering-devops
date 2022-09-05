@@ -1,2 +1,2 @@
 #!/biin/bash
-find . -type d | wc -l
+find ./* -type d | wc -l
